@@ -1,5 +1,5 @@
 <?php
 
-// pr test 
-echo rand(1,100)
+// pr test 2
+echo rand(1,100);
 ?>
